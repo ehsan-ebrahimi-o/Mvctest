@@ -23,4 +23,10 @@
 
 
 <hr />
-@if(@Mode)
+@if(@Mode.File != null)
+{
+    <p>
+        file select 
+    </p>
+    <img src="data:image/png;base64,@Model.FileBase64" />
+}
