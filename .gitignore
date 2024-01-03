@@ -2,6 +2,6 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/setion5/bin/Debug/net8.0
+/setion5/bin
 /setion5/obj
-/.vs/setion5/FileContentIndex/merges
+/.vs

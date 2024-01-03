@@ -51,6 +51,7 @@ namespace setion5.Controllers
         public IActionResult GetName5(string name)
         {
             return View("GetName5",name);
+            ///
         }
     }
 }
